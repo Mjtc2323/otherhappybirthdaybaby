@@ -17,6 +17,7 @@ canvas {
   margin: calc(50vh - 6.7em) auto;
   border: 1px dotted;
   text-align: center;
+  font-size: 220%;
   background: hsla(210, 50%, 15%, 0.75);
 }
 span {
