@@ -35,7 +35,7 @@ span.jump {
 #pleaseClick {
   position: absolute;
   background: hsla(210, 50%, 15%, 0.75);
-  font-size: 80%;
+  font-size: 220%;
   width: 10em;
   text-align: center;
   left: calc(50vw - 5em);
